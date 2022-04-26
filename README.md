@@ -49,13 +49,13 @@ flutter-app/
 ```
 
 ### Required Permission
-*   <uses-permission android:name="android.permission.INTERNET"/>
-*   <uses-permission android:name="android.permission.RECORD_AUDIO"/>
-*    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-*    <uses-permission android:name="android.permission.BLUETOOTH" />
-*    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-*    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-*    <uses-permission android:name="Manifest.permission.CAPTURE_AUDIO_OUTPUT" /> 
+*   INTERNET
+*   RECORD_AUDIO
+*   MODIFY_AUDIO_SETTINGS
+*   BLUETOOTH
+*   WRITE_EXTERNAL_STORAGE
+*   READ_EXTERNAL_STORAGE
+*   CAPTURE_AUDIO_OUTPUT
 
 ## Conclusion
 
